@@ -1,4 +1,4 @@
-# Clean All.bat — Description
+# One-Click-Windows-Cache-Cleaner — Description
 
 A compact Windows batch script that performs a quick "full cache" cleanup by removing various temporary and prefetch files, then launching the Disk Cleanup tool. It is intended to free disk space and remove common temporary/junk files.
 
